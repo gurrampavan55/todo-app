@@ -1,6 +1,6 @@
 # Simple To-Do App
 
-A clean and responsive to-do list application built with HTML, JavaScript, and Bootstrap. This application allows users to create, read, update, and delete tasks in a user-friendly interface...
+A clean and responsive to-do list application built with HTML, JavaScript, and Bootstrap. This application allows users to create, read, update, and delete tasks in a user-friendly interface.
 
 ## Features
 
