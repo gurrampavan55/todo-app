@@ -21,4 +21,4 @@ A clean and responsive to-do list application built with HTML, JavaScript, and B
 - HTML5
 - JavaScript
 - Bootstrap 5.3
-- CSS3 ...
+- CSS3 ..
